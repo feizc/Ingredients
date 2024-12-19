@@ -2,10 +2,10 @@
 <img src="https://github.com/feizc/CAT/blob/main/asserts/logo.jpg?raw=true" width="300px">
 </div>
 
-<h2 align="center"> <a href="https://arxiv.org">CAT🐱: Multi-Human Customization with Video Diffusion Transformers</a></h2>
+<h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
 
 <div align="center">
-This repository is the official implementation of CAT. 
+This repository is the official implementation of Ingredients.
 </div>
 
 ## 📷 1. Gallery
