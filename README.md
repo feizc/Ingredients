@@ -31,23 +31,6 @@ The weights are available at 🤗HuggingFace.
 ## 🗝️ 3. Inference 
 
 
-## 🐳 4. Training 
-
-First, setting hyperparameters:
-
-- environment (e.g., cuda): deepspeed_configs
-- training arguments (e.g., batchsize): train_single_rank.sh or train_multi_rank.sh 
-
-Then, we run the following bash to start training:
-
-```bash
-# For single rank
-bash train_single_rank.sh
-# For multi rank
-bash train_multi_rank.sh
-```
-
-
 
 ## 👍 5. Acknowledgement
 
