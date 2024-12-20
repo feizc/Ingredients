@@ -4,8 +4,8 @@
 
 <h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
 
-<div align="center">
-This repository is the official implementation of Ingredients.
+<div align="left">
+This repository is the official implementation of Ingredients, a powerful way to customize video creations by incorporating multiple specific identity (ID) photos, with video diffusion Transformers. 
 </div>
 
 ## 📷 1. Gallery
@@ -27,22 +27,15 @@ pip install -r requirements.txt
 
 The weights are available at 🤗HuggingFace.
 
-
 ## 🗝️ 3. Inference 
 
+```bash
+python infer.py
+```
 
 
-## 👍 5. Acknowledgement
+## 👍 4. Acknowledgement
 
 * This project wouldn't be possible without the following open-sourced repositories: [CogVideoX](https://github.com/THUDM/CogVideo), [ConsisID](https://github.com/PKU-YuanGroup/ConsisID). 
-
-
-
-
-
-
-
-
-
 
 
