@@ -33,6 +33,10 @@ The weights are available at 🤗HuggingFace.
 python infer.py
 ```
 
+## ⏰ 5. Training
+
+Coming soon, including multi-stage training scripts and datasets. 
+
 
 ## 👍 4. Acknowledgement
 
