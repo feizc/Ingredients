@@ -21,12 +21,12 @@ This is a research project, and it is recommended to try advanced products:
 We recommend the requirements as follows. 
 
 ```bash
-conda create -n cat python=3.11.0
-conda activate cat
+conda create -n ingredients python=3.11.0
+conda activate ingredients
 pip install -r requirements.txt
 ```
 
-The weights are available at 🤗HuggingFace.
+The weights of model are available at 🤗HuggingFace.
 
 ## 🗝️ 3. Inference 
 
