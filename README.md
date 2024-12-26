@@ -13,17 +13,13 @@ This repository is the official implementation of Ingredients, a powerful way to
 
 ## ⚙️ 2. Requirements and Installation 
 
-We recommend the requirements as follows.
-
-### Environment
+We recommend the requirements as follows. 
 
 ```bash
 conda create -n cat python=3.11.0
 conda activate cat
 pip install -r requirements.txt
 ```
-
-### Download CKPTs
 
 The weights are available at 🤗HuggingFace.
 
