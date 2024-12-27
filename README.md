@@ -16,7 +16,7 @@ This is a research project, and it is recommended to try advanced products:
   <video src="https://github.com/user-attachments/assets/910220a4-6499-430d-8dde-bf86616eacab" width="70%"> </video>
 </div>
 
-## ⚙️ 2. Requirements and Installation 
+## ⚙️ 2. Environments
 
 We recommend the requirements as follows. 
 
