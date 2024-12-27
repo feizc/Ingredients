@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://github.com/feizc/CAT/blob/main/asserts/logo.jpg?raw=true" width="300px">
+<img src="https://github.com/feizc/Ingredients/blob/main/asserts/logo.jpg?raw=true" width="300px">
 </div>
 
 <h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
@@ -29,17 +29,25 @@ pip install -r requirements.txt
 The weights of model are available at 🤗HuggingFace.
 
 ## 🗝️ 3. Inference 
+We provide the inference scripts ```inference.py``` for simple testing. Run the command as examples: 
 
 ```bash
-python infer.py
+python infer.py \
+    --prompt "Two men in half bodies, are seated in a dimly lit room, possibly an office or meeting room, with a formal atmosphere." \
+    --model_path "\path\to\model" \
+    --seed 42 \
+    --img_file_path 'asserts/0.jpg' 'asserts/1.jpg'
 ```
 
-## ⏰ 5. Training
+We also include the evaluation metrics and evaluation data for results comparison in multi-id customization tasks. 
+
+
+## ⏰ 4. Training
 
 Coming soon, including multi-stage training scripts and datasets. 
 
 
-## 👍 4. Acknowledgement
+## 👍 5. Acknowledgement
 
 * This project wouldn't be possible without the following open-sourced repositories: [CogVideoX](https://github.com/THUDM/CogVideo), [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), and [Hunyuan Video](https://github.com/Tencent/HunyuanVideo). 
 
