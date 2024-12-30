@@ -49,6 +49,6 @@ Coming soon, including multi-stage training scripts and datasets.
 
 ## 👍 5. Acknowledgement
 
-* This project wouldn't be possible without the following open-sourced repositories: [CogVideoX](https://github.com/THUDM/CogVideo), [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), and [Hunyuan Video](https://github.com/Tencent/HunyuanVideo). 
+This project wouldn't be possible without the following open-sourced repositories: [CogVideoX](https://github.com/THUDM/CogVideo), [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), [Uniportrait](https://github.com/junjiehe96/UniPortrait), and [Hunyuan Video](https://github.com/Tencent/HunyuanVideo). 
 
 
