@@ -52,3 +52,17 @@ Coming soon, including multi-stage training scripts and datasets.
 This project wouldn't be possible without the following open-sourced repositories: [CogVideoX](https://github.com/THUDM/CogVideo), [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), [Uniportrait](https://github.com/junjiehe96/UniPortrait), and [Hunyuan Video](https://github.com/Tencent/HunyuanVideo). 
 
 
+## Cite
+
+If you find UniPortrait useful for your research and applications, please cite us using this BibTeX:
+
+```bibtex
+@article{fei2025ingredients,
+    title={UniPortrait: A Unified Framework for Identity-Preserving Single-and Multi-Human Image Personalization},
+    author={Fei, Zhengcong and Li, Debang and Qiu, Di and Yu, Changqian and Fan, Mingyuan and Wen, Xiang},
+    journal={arXiv preprint arXiv},
+    year={2025}
+}
+```
+For any question, please feel free to open an issue. 
+
