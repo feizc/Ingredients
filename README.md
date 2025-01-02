@@ -46,6 +46,16 @@ We also include the evaluation metrics and evaluation data for results compariso
 
 Coming soon, including multi-stage training scripts and datasets. 
 
+You can prepare the video-text pair data as [formation](datasets.py) and our experiments can be repeated by simply run the training scripts as:
+
+```bash
+# For single rank
+bash train_single_rank.sh
+# For multi rank
+bash train_multi_rank.sh
+```
+
+
 
 ## 🚀 5. Cite
 
