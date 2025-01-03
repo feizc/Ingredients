@@ -71,7 +71,7 @@ If you find UniPortrait useful for your research and applications, please cite u
 
 ```bibtex
 @article{fei2025ingredients,
-    title={UniPortrait: A Unified Framework for Identity-Preserving Single-and Multi-Human Image Personalization},
+    title={Ingredients: Blending Custom Photos with Video Diffusion Transformers},
     author={Fei, Zhengcong and Li, Debang and Qiu, Di and Yu, Changqian and Fan, Mingyuan},
     journal={arXiv preprint arXiv},
     year={2025}
