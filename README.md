@@ -5,8 +5,8 @@
 <h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
 
 [![arXiv](https://img.shields.io/badge/Arxiv-paper-b31b1b.svg?logo=arXiv)](https://arxiv.org)
-[![Model](https://img.shields.io/badge/Huggingface-Model-yellow)](https://huggingface.co/models/)
-[![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/)
+[![Model](https://img.shields.io/badge/Huggingface-Model-yellow)](https://huggingface.co/feizhengcong/Ingredients)
+[![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/feizhengcong/Ingredients)
 
 
 
