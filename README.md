@@ -43,7 +43,7 @@ We provide the inference scripts ```inference.py``` for simple testing. Run the 
 python infer.py \
     --prompt "Two men in half bodies, are seated in a dimly lit room, possibly an office or meeting room, with a formal atmosphere." \
     --model_path "\path\to\model" \
-    --seed 42 \
+    --seed 2025 \
     --img_file_path 'asserts/0.jpg' 'asserts/1.jpg'
 ```
 
@@ -72,7 +72,7 @@ If you find UniPortrait useful for your research and applications, please cite u
 ```bibtex
 @article{fei2025ingredients,
     title={UniPortrait: A Unified Framework for Identity-Preserving Single-and Multi-Human Image Personalization},
-    author={Fei, Zhengcong and Li, Debang and Qiu, Di and Yu, Changqian and Fan, Mingyuan and Wen, Xiang},
+    author={Fei, Zhengcong and Li, Debang and Qiu, Di and Yu, Changqian and Fan, Mingyuan},
     journal={arXiv preprint arXiv},
     year={2025}
 }
