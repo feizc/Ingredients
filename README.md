@@ -4,11 +4,19 @@
 
 <h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
 
+[![arXiv](https://img.shields.io/badge/Arxiv-paper-b31b1b.svg?logo=arXiv)](https://arxiv.org)
+[![Model](https://img.shields.io/badge/Huggingface-Model-yellow)](https://huggingface.co/models/)
+[![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/)
+
+
+
+
 <div align="left">
 This repository is the official implementation of Ingredients, a powerful way to customize video creations by incorporating multiple specific identity (ID) photos, with advanced video diffusion Transformers. 
 This is a research project, and it is recommended to try advanced products: 
 <a href="https://skyreels.ai/"><img src="https://img.shields.io/static/v1?label=Recommend&message=Application&color=orange&logo=demo"></a> &ensp;
 </div>
+
 
 ## 📷 1. Gallery
 
@@ -49,10 +57,10 @@ Coming soon, including multi-stage training scripts and datasets.
 You can prepare the video-text pair data as [formation](datasets.py) and our experiments can be repeated by simply run the training scripts as:
 
 ```bash
-# For single rank
-bash train_single_rank.sh
-# For multi rank
-bash train_multi_rank.sh
+# For stage 1
+bash train_face.sh
+# For stage 2
+bash train_router.sh
 ```
 
 
