@@ -67,7 +67,7 @@ bash train_router.sh
 
 ## 🚀 5. Cite
 
-If you find UniPortrait useful for your research and applications, please cite us using this BibTeX:
+If you find this work useful for your research and applications, please cite us using this BibTeX:
 
 ```bibtex
 @article{fei2025ingredients,
