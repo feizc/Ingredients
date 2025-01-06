@@ -49,6 +49,9 @@ python infer.py \
 
 We also include the evaluation metrics code at ```metric``` folder and evaluation data at [![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/feizhengcong/Ingredients) for results comparison in multi-id customization tasks. 
 
+Similar to [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), Ingredients also has high requirements for prompt quality. 
+We suggest referring to formation in the [link](https://github.com/PKU-YuanGroup/ConsisID?tab=readme-ov-file#prompt-refiner).
+
 
 ## ⏰ 4. Training
 
