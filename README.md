@@ -4,7 +4,7 @@
 
 <h2 align="center"> <a href="https://arxiv.org">Blending Custom Photos with Video Diffusion Transformers</a></h2>
 
-[![arXiv](https://img.shields.io/badge/Arxiv-paper-b31b1b.svg?logo=arXiv)](https://arxiv.org)
+[![arXiv](https://img.shields.io/badge/Arxiv-paper-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2501.01790)
 [![Model](https://img.shields.io/badge/Huggingface-Model-yellow)](https://huggingface.co/feizhengcong/Ingredients)
 [![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/feizhengcong/Ingredients)
 
@@ -73,7 +73,7 @@ If you find this work useful for your research and applications, please cite us 
 @article{fei2025ingredients,
     title={Ingredients: Blending Custom Photos with Video Diffusion Transformers},
     author={Fei, Zhengcong and Li, Debang and Qiu, Di and Yu, Changqian and Fan, Mingyuan},
-    journal={arXiv preprint arXiv},
+    journal={arXiv preprint arXiv:2501.01790},
     year={2025}
 }
 ```
