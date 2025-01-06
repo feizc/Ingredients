@@ -47,12 +47,12 @@ python infer.py \
     --img_file_path 'asserts/0.jpg' 'asserts/1.jpg'
 ```
 
-We also include the evaluation metrics and evaluation data for results comparison in multi-id customization tasks. 
+We also include the evaluation metrics code at ```metric``` folder and evaluation data at [![Dataset](https://img.shields.io/badge/Huggingface-Dataset-blue)](https://huggingface.co/datasets/feizhengcong/Ingredients) for results comparison in multi-id customization tasks. 
 
 
 ## ⏰ 4. Training
 
-Coming soon, including multi-stage training scripts and datasets. 
+Coming soon, including multi-stage training scripts and multi-ID text-video datasets. 
 
 You can prepare the video-text pair data as [formation](datasets.py) and our experiments can be repeated by simply run the training scripts as:
 
