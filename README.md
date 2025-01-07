@@ -53,6 +53,18 @@ Similar to [ConsisID](https://github.com/PKU-YuanGroup/ConsisID), Ingredients al
 We suggest referring to formation in the [link](https://github.com/PKU-YuanGroup/ConsisID?tab=readme-ov-file#prompt-refiner).
 
 
+### Gradio Web UI
+
+Highly recommend trying out our web demo by the following command, which incorporates all features currently supported by Ingredients.  
+
+```bash
+python app.py
+```
+
+![image](https://github.com/user-attachments/assets/1e80c681-887b-4c0d-a416-bc210ba86eb4)
+
+
+
 ## ⏰ 4. Training
 
 Coming soon, including multi-stage training scripts and multi-ID text-video datasets. 
